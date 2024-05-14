@@ -1,0 +1,1 @@
+// Write a function to validate if a given string is a valid password or not using Regular Expression in JavaScript. A valid password should have at least 8 characters, one uppercase letter, one lowercase letter, one number and one special character.

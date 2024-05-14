@@ -1,3 +1,5 @@
+// Mary is a geometry teacher who wants to create a web application that calculates the area of a triangle. She needs to write a JavaScript function to achieve this. How can she write a function to find the area of a triangle?
+
 let side1 = 3;
 let side2 = 4;
 let side3 = 5;
